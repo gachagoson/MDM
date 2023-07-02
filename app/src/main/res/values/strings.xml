@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mobile Device Manager</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoiam9zZXBoZ2FjaGFnbzk4IiwiYSI6ImNsamptbmR1eDBjMnEzZHBqMmZyZmFqMmMifQ.wq8OmNdeq3d9UWDwvR192g</string>
+    <string name="agreement_content">
+    Mobile Device Management (MDM) Guidelines:\n
+    \n
+    1. What is MDM?\n
+    Mobile Device Management (MDM) is a technology that allows organizations to manage and secure mobile devices used by their employees. By enrolling your device in our MDM program, you agree to allow us to remotely manage and monitor certain aspects of your device.\n
+    \n
+    2. Device Control:\n
+    Our MDM solution grants us the ability to enforce security policies, configure device settings, and remotely install or remove applications on your device. This ensures compliance with company policies and protects sensitive data.\n
+    \n
+    3. Data Collection:\n
+    As part of our MDM program, we may collect certain information from your device, such as device model, operating system version, and usage statistics. This data helps us analyze device performance, troubleshoot issues, and improve our services.\n
+    \n
+    4. Privacy and Security:\n
+    We take your privacy and the security of your personal information seriously. Rest assured that any data collected through the MDM program will be handled in accordance with applicable privacy laws and our privacy policy.\n
+    \n
+    5. Consent and Revocation:\n
+    By enrolling your device in our MDM program, you provide consent for us to manage and monitor your device. If you no longer wish to participate, you may revoke this consent at any time by contacting our support team.\n
+    \n
+    Please read and understand these guidelines before proceeding with the MDM enrollment. If you have any questions or concerns, please reach out to our support team for assistance.
+</string>
+    <string name="app_description">Your device admin receiver description</string>
+
+
+</resources>

@@ -1,0 +1,34 @@
+<!-- lock_screen_activity.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Passcode"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/editTextPasscode"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:inputType="numberPassword"
+        android:maxLength="4"
+        android:hint="Enter passcode"
+        android:layout_marginBottom="16dp"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/btnUnlock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unlock"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
